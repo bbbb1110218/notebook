@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/min122218/tmp/deleteme/notebook",
+      "program": "/Users/min122218/tmp/deleteme/notebook/build/Debug/outDebug"
+    }
+  ]
+}
